@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">Rabbit Road</string>
+    <string name="no_internet">No internet connection\nPlease try again later</string>
+    <string name="try_again">Try Again</string>
+    <string name="about">Rabbit Road is a dynamic arcade game where you control a rabbit catching carrots and coins!
+\nAvoid unnecessary items and collect only what brings you points.
+
+\n\nFeatures:
+\n• Catch carrots and coins, avoid unwanted drops.
+\n• Personal TOP-5 leaderboard with your best results.
+\n• Three falling speed modes — easy, medium, and hard.
+
+\n\nTest your reflexes, beat your own records, and become the true master of the carrot hunter world!</string>
 </resources>
