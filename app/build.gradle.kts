@@ -7,11 +7,11 @@ plugins {
 }
 
 android {
-    namespace = "com.rab.bit.road104"
+    namespace = "com.rab.bit.road105"
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "com.rab.bit.road104"
+        applicationId = "com.rab.bit.road105"
         minSdk = 26
         targetSdk = 36
         versionCode = 1
